@@ -1,0 +1,27 @@
+Key Features:
+Unique product identification using QR/NFC.
+Blockchain ledger (e.g., Ethereum or Hyperledger) to record each transaction.
+Smart contracts to automate verification.
+Role-based access for stakeholders.
+Mobile/web-based interface for product verification by end-users.
+
+The system ensures:
+Transparency: All stakeholders can access real-time product information.
+Traceability: Every transaction is traceable back to the point of origin.
+Security: Immutable records prevent unauthorized tampering.
+Scalability: The architecture is designed to accommodate large-scale commercial implementation.
+
+Technologies Used:
+Blockchain Framework: Ethereum / Hyperledger Fabric
+Frontend: React.js / Angular (optional)
+Backend: Node.js / Python (Flask/Django)
+Database (for off-chain data): MongoDB / PostgreSQL
+Smart Contract Language: Solidity
+Integration Tools: Web3.js / Ethers.js
+QR/NFC Tagging: For physical linkage with the digital ledger
+
+Objectives:
+To develop a tamper-proof product tracking system.
+To minimize counterfeit products in the supply chain.
+To build consumer trust by providing transparency.
+To explore the use of smart contracts for automated product validation.
